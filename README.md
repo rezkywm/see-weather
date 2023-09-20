@@ -20,4 +20,5 @@ A simple weather forecasting application.
 
 <img src="resources\Screenshot_2023-09-20-10-43-31-544_com.seeweather.rezkywm.jpg" width="360" height="auto" alt="App in Dark Mode"/>
 <br/><br/>
+
 Download the app over **[here.](https://github.com/rezkywm/see-weather/releases/download/see_weather_v1.0_final/see_weather_v1.0_final.apk)** Thank you.
