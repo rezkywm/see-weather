@@ -1,0 +1,7 @@
+{
+  "name": "metric_converter-rezkywm-ionic_vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

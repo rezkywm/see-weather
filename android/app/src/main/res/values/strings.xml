@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">See Weather</string>
+    <string name="title_activity_main">See Weather</string>
+    <string name="package_name">com.seeweather.rezkywm</string>
+    <string name="custom_url_scheme">com.seeweather.rezkywm</string>
+</resources>
